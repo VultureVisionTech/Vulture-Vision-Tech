@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Vulture Vision Tech</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Vulture Vision Tech</h1>
+    <p>Reliable CCTV & Security Solutions</p>
+    <a href="https://wa.me/917092173669" class="cta-button">Contact on WhatsApp</a>
+  </header>
+
+  <section class="features">
+    <div>
+      <h3>🛠️ Professional Installation</h3>
+      <p>Fast, clean and professional CCTV & tech setup.</p>
+    </div>
+    <div>
+      <h3>🔁 AMC Support</h3>
+      <p>Affordable annual maintenance contracts.</p>
+    </div>
+    <div>
+      <h3>💻 Refurbished Laptops</h3>
+      <p>Tested & reliable devices at great prices.</p>
+    </div>
+  </section>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>
+      Vulture Vision Tech offers top-notch security and IT services including CCTV installation, AMC, biometric systems, smoke alarms, networking, and laptops. 
+    </p>
+    <ul>
+      <li>✔️ Certified Technicians</li>
+      <li>✔️ Affordable Pricing</li>
+      <li>✔️ Fast Support</li>
+    </ul>
+  </section>
+
+  <section class="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>🔒 CCTV Installation & Support</li>
+      <li>🔁 AMC Maintenance Contracts</li>
+      <li>🔥 Smoke Alarm Systems</li>
+      <li>🕹️ Biometric & Access Control Systems</li>
+      <li>🌐 Networking (LAN, Wi-Fi)</li>
+      <li>💻 Refurbished Laptop Sales</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Us</h2>
+    <p>📧 Email: <a href="vulturevisiontech28@gmail.com">vulturevisiontech28@gmail.com</a></p>
+    <p>📞 Phone/WhatsApp: <a href="https://wa.me/917092173669">+91 70921 73669</a></p>
+    <p>🕒 Mon–Sat: 9:00 AM – 7:00 PM</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Vulture Vision Tech. All rights reserved.</p>
+  </footer>
+</body>
+</html>
